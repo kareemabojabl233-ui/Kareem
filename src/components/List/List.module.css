@@ -1,0 +1,101 @@
+.list {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.list.dark {
+  background-color: #2a2a2a;
+  border-color: #333;
+}
+
+.title {
+  margin: 0;
+  padding: 1rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #f9f9f9;
+}
+
+.list.dark .title {
+  background-color: #333;
+  border-bottom-color: #444;
+}
+
+.items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.2s;
+}
+
+.list.dark .item {
+  border-bottom-color: #333;
+}
+
+.item:last-child {
+  border-bottom: none;
+}
+
+.item.clickable {
+  cursor: pointer;
+}
+
+.item.clickable:hover {
+  background-color: #f5f5f5;
+}
+
+.list.dark .item.clickable:hover {
+  background-color: #333;
+}
+
+.icon {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+
+.content {
+  flex: 1;
+  min-width: 0;
+}
+
+.label {
+  margin: 0;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.description {
+  margin: 0.25rem 0 0 0;
+  font-size: 0.875rem;
+  color: #666;
+}
+
+.list.dark .description {
+  color: #999;
+}
+
+.empty {
+  padding: 2rem;
+  text-align: center;
+  color: #666;
+}
+
+.list.dark .empty {
+  color: #999;
+}
