@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "卡里姆 - 足球"
+  },
+  "nav": {
+    "home": "首页",
+    "commentators": "评论员",
+    "cristiano": "克里斯蒂亚诺·罗纳尔多",
+    "legends": "传奇",
+    "players": "球员",
+    "transfers": "转会",
+    "matches": "比赛"
+  },
+  "footer": {
+    "description": "全面的足球网站，涵盖美妙游戏的各个方面",
+    "quickLinks": "快速链接",
+    "followUs": "关注我们",
+    "email": "电子邮件",
+    "social": "社交媒体",
+    "allRights": "版权所有"
+  },
+  "home": {
+    "welcome": "欢迎来到卡里姆",
+    "subtitle": "全面的足球网站",
+    "description": "探索足球世界的一切，从传奇和冠军到比赛"
+  },
+  "commentators": {
+    "title": "评论员",
+    "search": "搜索评论员",
+    "international": "国际水平",
+    "arabic": "阿拉伯语水平"
+  },
+  "cristiano": {
+    "title": "克里斯蒂亚诺·罗纳尔多",
+    "goals": "进球",
+    "achievements": "成就",
+    "titles": "头衔",
+    "awards": "奖项",
+    "careerStats": "职业统计"
+  },
+  "legends": {
+    "title": "传奇",
+    "legend": "传奇",
+    "goals": "进球",
+    "titles": "头衔"
+  },
+  "players": {
+    "title": "球员",
+    "search": "搜索球员",
+    "team": "球队",
+    "position": "位置"
+  },
+  "transfers": {
+    "title": "转会",
+    "latestNews": "最新新闻",
+    "from": "从",
+    "to": "到",
+    "fee": "转会费"
+  },
+  "matches": {
+    "title": "比赛",
+    "schedule": "日程",
+    "results": "结果",
+    "standings": "排名"
+  }
+}

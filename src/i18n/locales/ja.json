@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "カリーム - サッカー"
+  },
+  "nav": {
+    "home": "ホーム",
+    "commentators": "コメンテーター",
+    "cristiano": "クリスティアーノ・ロナウド",
+    "legends": "レジェンド",
+    "players": "選手",
+    "transfers": "移籍",
+    "matches": "試合"
+  },
+  "footer": {
+    "description": "美しきゲームのあらゆる側面をカバーする包括的なサッカーウェブサイト",
+    "quickLinks": "クイックリンク",
+    "followUs": "フォローする",
+    "email": "メール",
+    "social": "ソーシャルメディア",
+    "allRights": "著作権所有"
+  },
+  "home": {
+    "welcome": "カリームへようこそ",
+    "subtitle": "包括的なサッカーウェブサイト",
+    "description": "レジェンドとチャンピオンから試合まで、サッカーの世界のすべてを発見してください"
+  },
+  "commentators": {
+    "title": "コメンテーター",
+    "search": "コメンテーターを検索",
+    "international": "国際レベル",
+    "arabic": "アラビアレベル"
+  },
+  "cristiano": {
+    "title": "クリスティアーノ・ロナウド",
+    "goals": "ゴール",
+    "achievements": "成績",
+    "titles": "タイトル",
+    "awards": "賞",
+    "careerStats": "キャリア統計"
+  },
+  "legends": {
+    "title": "レジェンド",
+    "legend": "レジェンド",
+    "goals": "ゴール",
+    "titles": "タイトル"
+  },
+  "players": {
+    "title": "選手",
+    "search": "選手を検索",
+    "team": "チーム",
+    "position": "ポジション"
+  },
+  "transfers": {
+    "title": "移籍",
+    "latestNews": "最新ニュース",
+    "from": "から",
+    "to": "へ",
+    "fee": "移籍金"
+  },
+  "matches": {
+    "title": "試合",
+    "schedule": "スケジュール",
+    "results": "結果",
+    "standings": "テーブル"
+  }
+}

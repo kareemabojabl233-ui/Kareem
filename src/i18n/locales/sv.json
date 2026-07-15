@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Kareem - Fotboll"
+  },
+  "nav": {
+    "home": "Hem",
+    "commentators": "Kommentatorer",
+    "cristiano": "Cristiano Ronaldo",
+    "legends": "Legender",
+    "players": "Spelare",
+    "transfers": "Transfereringar",
+    "matches": "Matcher"
+  },
+  "footer": {
+    "description": "Omfattande fotbollswebbplats som täcker alla aspekter av det vackra spelet",
+    "quickLinks": "Snabblänkar",
+    "followUs": "Följ oss",
+    "email": "E-post",
+    "social": "Sociala Medier",
+    "allRights": "Alla rättigheter reserverade"
+  },
+  "home": {
+    "welcome": "Välkommen till Kareem",
+    "subtitle": "Omfattande Fotbollswebbplats",
+    "description": "Utforska allt om fotbollsvärlden från legender och mästare till matcher"
+  },
+  "commentators": {
+    "title": "Kommentatorer",
+    "search": "Sök Kommentator",
+    "international": "Internationell Nivå",
+    "arabic": "Arabisk Nivå"
+  },
+  "cristiano": {
+    "title": "Cristiano Ronaldo",
+    "goals": "Mål",
+    "achievements": "Prestationer",
+    "titles": "Titlar",
+    "awards": "Priser",
+    "careerStats": "Karriärstatistik"
+  },
+  "legends": {
+    "title": "Legender",
+    "legend": "Legend",
+    "goals": "Mål",
+    "titles": "Titlar"
+  },
+  "players": {
+    "title": "Spelare",
+    "search": "Sök Spelare",
+    "team": "Lag",
+    "position": "Position"
+  },
+  "transfers": {
+    "title": "Transfereringar",
+    "latestNews": "Senaste Nyheter",
+    "from": "Från",
+    "to": "Till",
+    "fee": "Transferavgift"
+  },
+  "matches": {
+    "title": "Matcher",
+    "schedule": "Schema",
+    "results": "Resultat",
+    "standings": "Tabell"
+  }
+}

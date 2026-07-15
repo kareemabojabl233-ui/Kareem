@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Kareem - Piłka Nożna"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "commentators": "Komentatorzy",
+    "cristiano": "Cristiano Ronaldo",
+    "legends": "Legendy",
+    "players": "Gracze",
+    "transfers": "Transfery",
+    "matches": "Mecze"
+  },
+  "footer": {
+    "description": "Kompleksowa witryna piłkarska obejmująca wszystkie aspekty pięknej gry",
+    "quickLinks": "Szybkie Linki",
+    "followUs": "Obserwuj nas",
+    "email": "Email",
+    "social": "Media społecznościowe",
+    "allRights": "Wszystkie prawa zastrzeżone"
+  },
+  "home": {
+    "welcome": "Witaj w Kareem",
+    "subtitle": "Kompleksowa Witryna Piłkarska",
+    "description": "Odkryj wszystko o świecie piłki nożnej od legend i mistrzów do meczów"
+  },
+  "commentators": {
+    "title": "Komentatorzy",
+    "search": "Szukaj Komentatora",
+    "international": "Poziom Międzynarodowy",
+    "arabic": "Poziom Arabski"
+  },
+  "cristiano": {
+    "title": "Cristiano Ronaldo",
+    "goals": "Bramki",
+    "achievements": "Osiągnięcia",
+    "titles": "Tytuły",
+    "awards": "Nagrody",
+    "careerStats": "Statystyki Kariery"
+  },
+  "legends": {
+    "title": "Legendy",
+    "legend": "Legenda",
+    "goals": "Bramki",
+    "titles": "Tytuły"
+  },
+  "players": {
+    "title": "Gracze",
+    "search": "Szukaj Gracza",
+    "team": "Drużyna",
+    "position": "Pozycja"
+  },
+  "transfers": {
+    "title": "Transfery",
+    "latestNews": "Najnowsze Wiadomości",
+    "from": "Z",
+    "to": "Do",
+    "fee": "Opłata Transferu"
+  },
+  "matches": {
+    "title": "Mecze",
+    "schedule": "Harmonogram",
+    "results": "Wyniki",
+    "standings": "Tabela"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Kareem - Voetbal"
+  },
+  "nav": {
+    "home": "Thuis",
+    "commentators": "Commentatoren",
+    "cristiano": "Cristiano Ronaldo",
+    "legends": "Legendes",
+    "players": "Spelers",
+    "transfers": "Transfers",
+    "matches": "Wedstrijden"
+  },
+  "footer": {
+    "description": "Uitgebreide voetbalwebsite die alle aspecten van het mooie spel behandelt",
+    "quickLinks": "Snelkoppelingen",
+    "followUs": "Volg ons",
+    "email": "E-mail",
+    "social": "Sociale Media",
+    "allRights": "Alle rechten voorbehouden"
+  },
+  "home": {
+    "welcome": "Welkom bij Kareem",
+    "subtitle": "Uitgebreide Voetbalwebsite",
+    "description": "Ontdek alles over de voetbalwereld van legendes en kampioenen tot wedstrijden"
+  },
+  "commentators": {
+    "title": "Commentatoren",
+    "search": "Zoek Commentator",
+    "international": "Internationaal Niveau",
+    "arabic": "Arabisch Niveau"
+  },
+  "cristiano": {
+    "title": "Cristiano Ronaldo",
+    "goals": "Doelpunten",
+    "achievements": "Prestaties",
+    "titles": "Titels",
+    "awards": "Prijzen",
+    "careerStats": "Carrièrestatistieken"
+  },
+  "legends": {
+    "title": "Legendes",
+    "legend": "Legende",
+    "goals": "Doelpunten",
+    "titles": "Titels"
+  },
+  "players": {
+    "title": "Spelers",
+    "search": "Zoek Speler",
+    "team": "Team",
+    "position": "Positie"
+  },
+  "transfers": {
+    "title": "Transfers",
+    "latestNews": "Laatste Nieuws",
+    "from": "Van",
+    "to": "Naar",
+    "fee": "Transferbedrag"
+  },
+  "matches": {
+    "title": "Wedstrijden",
+    "schedule": "Schema",
+    "results": "Resultaten",
+    "standings": "Ranglijst"
+  }
+}

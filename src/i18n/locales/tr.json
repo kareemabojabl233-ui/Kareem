@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Kareem - Futbol"
+  },
+  "nav": {
+    "home": "Anasayfa",
+    "commentators": "Yorumcular",
+    "cristiano": "Cristiano Ronaldo",
+    "legends": "Efsaneler",
+    "players": "Oyuncular",
+    "transfers": "Transfer",
+    "matches": "Maçlar"
+  },
+  "footer": {
+    "description": "Güzel oyunun tüm yönlerini kapsayan kapsamlı bir futbol web sitesi",
+    "quickLinks": "Hızlı Bağlantılar",
+    "followUs": "Bizi Takip Edin",
+    "email": "E-posta",
+    "social": "Sosyal Medya",
+    "allRights": "Tüm hakları saklıdır"
+  },
+  "home": {
+    "welcome": "Kareem'e Hoşgeldiniz",
+    "subtitle": "Kapsamlı Futbol Web Sitesi",
+    "description": "Efsaneler ve şampiyonlardan maçlara kadar futbol dünyasının her şeyini keşfedin"
+  },
+  "commentators": {
+    "title": "Yorumcular",
+    "search": "Yorumcu Ara",
+    "international": "Uluslararası Seviye",
+    "arabic": "Arapça Seviye"
+  },
+  "cristiano": {
+    "title": "Cristiano Ronaldo",
+    "goals": "Gol",
+    "achievements": "Başarılar",
+    "titles": "Unvanlar",
+    "awards": "Ödüller",
+    "careerStats": "Kariyer İstatistikleri"
+  },
+  "legends": {
+    "title": "Efsaneler",
+    "legend": "Efsane",
+    "goals": "Gol",
+    "titles": "Unvanlar"
+  },
+  "players": {
+    "title": "Oyuncular",
+    "search": "Oyuncu Ara",
+    "team": "Takım",
+    "position": "Pozisyon"
+  },
+  "transfers": {
+    "title": "Transfer",
+    "latestNews": "Son Haberler",
+    "from": "Kimden",
+    "to": "Kime",
+    "fee": "Transfer Ücreti"
+  },
+  "matches": {
+    "title": "Maçlar",
+    "schedule": "Program",
+    "results": "Sonuçlar",
+    "standings": "Puan Tablosu"
+  }
+}
