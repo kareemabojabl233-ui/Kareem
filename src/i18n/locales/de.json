@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Kareem - Fußball"
+  },
+  "nav": {
+    "home": "Startseite",
+    "commentators": "Kommentatoren",
+    "cristiano": "Cristiano Ronaldo",
+    "legends": "Legenden",
+    "players": "Spieler",
+    "transfers": "Transfers",
+    "matches": "Spiele"
+  },
+  "footer": {
+    "description": "Umfassende Fußball-Website mit allen Aspekten des schönen Spiels",
+    "quickLinks": "Schnelllinks",
+    "followUs": "Folgen Sie uns",
+    "email": "E-Mail",
+    "social": "Soziale Netzwerke",
+    "allRights": "Alle Rechte vorbehalten"
+  },
+  "home": {
+    "welcome": "Willkommen bei Kareem",
+    "subtitle": "Umfassende Fußball-Website",
+    "description": "Entdecken Sie alles über die Welt des Fußballs von Legenden und Champions bis zu Spielen"
+  },
+  "commentators": {
+    "title": "Kommentatoren",
+    "search": "Kommentator suchen",
+    "international": "Internationale Ebene",
+    "arabic": "Arabische Ebene"
+  },
+  "cristiano": {
+    "title": "Cristiano Ronaldo",
+    "goals": "Tore",
+    "achievements": "Erfolge",
+    "titles": "Titel",
+    "awards": "Auszeichnungen",
+    "careerStats": "Karrierestatistiken"
+  },
+  "legends": {
+    "title": "Legenden",
+    "legend": "Legende",
+    "goals": "Tore",
+    "titles": "Titel"
+  },
+  "players": {
+    "title": "Spieler",
+    "search": "Spieler suchen",
+    "team": "Mannschaft",
+    "position": "Position"
+  },
+  "transfers": {
+    "title": "Transfers",
+    "latestNews": "Neueste Nachrichten",
+    "from": "Von",
+    "to": "Zu",
+    "fee": "Transfergebühr"
+  },
+  "matches": {
+    "title": "Spiele",
+    "schedule": "Zeitplan",
+    "results": "Ergebnisse",
+    "standings": "Tabelle"
+  }
+}

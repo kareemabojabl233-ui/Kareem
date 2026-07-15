@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Kareem - Football"
+  },
+  "nav": {
+    "home": "Home",
+    "commentators": "Commentators",
+    "cristiano": "Cristiano Ronaldo",
+    "legends": "Legends",
+    "players": "Players",
+    "transfers": "Transfers",
+    "matches": "Matches"
+  },
+  "footer": {
+    "description": "Comprehensive football website covering all aspects of the beautiful game",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "email": "Email",
+    "social": "Social Media",
+    "allRights": "All rights reserved"
+  },
+  "home": {
+    "welcome": "Welcome to Kareem",
+    "subtitle": "Comprehensive Football Website",
+    "description": "Discover everything about the world of football from legends and champions to matches"
+  },
+  "commentators": {
+    "title": "Commentators",
+    "search": "Search Commentators",
+    "international": "International Level",
+    "arabic": "Arabic Level"
+  },
+  "cristiano": {
+    "title": "Cristiano Ronaldo",
+    "goals": "Goals",
+    "achievements": "Achievements",
+    "titles": "Titles",
+    "awards": "Awards",
+    "careerStats": "Career Statistics"
+  },
+  "legends": {
+    "title": "Legends",
+    "legend": "Legend",
+    "goals": "Goals",
+    "titles": "Titles"
+  },
+  "players": {
+    "title": "Players",
+    "search": "Search Players",
+    "team": "Team",
+    "position": "Position"
+  },
+  "transfers": {
+    "title": "Transfers",
+    "latestNews": "Latest News",
+    "from": "From",
+    "to": "To",
+    "fee": "Transfer Fee"
+  },
+  "matches": {
+    "title": "Matches",
+    "schedule": "Schedule",
+    "results": "Results",
+    "standings": "Standings"
+  }
+}
