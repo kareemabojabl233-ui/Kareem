@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+  margin-top: 60px;
+}
+
+.content {
+  flex: 1;
+  margin-left: 256px;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.content h1 {
+  margin: 0 0 2rem 0;
+  font-size: 2rem;
+}
+
+.section {
+  margin-bottom: 3rem;
+}
+
+.section h2 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.5rem;
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.statsGrid > div {
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.statsGrid h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.75rem;
+  color: #007bff;
+}
+
+.statsGrid p {
+  margin: 0;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+
+  .content {
+    margin-left: 0;
+    padding: 1rem;
+  }
+}
